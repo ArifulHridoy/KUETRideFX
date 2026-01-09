@@ -1,0 +1,35 @@
+# Maven / build
+/target/
+/out/
+
+# Maven wrapper caches/local stuff
+/.m2/
+
+# IntelliJ / IDE
+/.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+*.jar
+
+# Logs and runtime
+/logs/
+*.log
+
+# Secrets / local config
+*.env
+*.properties
+*.jks
+secret*.*
+keys/*
+
+# Others
+.settings/
